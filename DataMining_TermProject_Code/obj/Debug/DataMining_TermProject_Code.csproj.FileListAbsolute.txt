@@ -1,0 +1,13 @@
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\bin\Debug\DataMining_TermProject_Code.exe.config
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\bin\Debug\DataMining_TermProject_Code.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\bin\Debug\DataMining_TermProject_Code.pdb
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.csprojResolveAssemblyReference.cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.csproj.ResolveComReference.cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.FrmAbout.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.FrmMain.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.FrmSettings.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.FrmSplash.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.Properties.Resources.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.csproj.GenerateResource.Cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining_TermProject_Code\DataMining_TermProject_Code\obj\Debug\DataMining_TermProject_Code.pdb

@@ -1,0 +1,11 @@
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.FrmAbout.resources
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.FrmMain.resources
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.FrmSettings.resources
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.FrmSplash.resources
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.Properties.Resources.resources
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/bin/Debug/DataMining_TermProject_Code.exe.config
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/bin/Debug/DataMining_TermProject_Code.exe.mdb
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/bin/Debug/DataMining_TermProject_Code.exe
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.exe
+/home/ramin/myGitHub/DataMining_TermProject_Code/DataMining_TermProject_Code/obj/Debug/DataMining_TermProject_Code.exe.mdb
